@@ -22,7 +22,7 @@ sudo chmod -R 775 local-files
 
 ```bash
 cd ~/n8n-compose
-sudo nano Docker
+sudo nano Dockerfile
 ```
   2. И вставьте в него следующее содержимое:
 ```bash
