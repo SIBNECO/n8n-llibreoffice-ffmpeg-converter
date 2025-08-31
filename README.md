@@ -8,7 +8,7 @@
 
 ```bash
 cd ~/n8n-compose
-sudo docker-compose down
+sudo docker compose down
 mkdir -p local-files/Convert
 sudo chown -R 1000:1000 local-files
 sudo chmod -R 775 local-files
